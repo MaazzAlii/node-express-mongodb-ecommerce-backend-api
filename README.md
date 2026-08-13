@@ -13,6 +13,21 @@ A production-style Node.js e-commerce backend covering the first 4 hours of scop
 
 Express 4, Mongoose 8, jsonwebtoken, bcryptjs, cors, dotenv.
 
+## API Screenshots & Visual Demonstration
+
+### 1. API Status Endpoint (`GET /`)
+Confirms API health, server state, and available endpoint route maps.
+
+![API Status Endpoint](docs/screenshots/api_status.png)
+
+---
+
+### 2. Product Management Endpoint (`GET /api/v1/products`)
+Retrieves product collection with filtering, keyword search, and pagination.
+
+![Products Endpoint](docs/screenshots/products_endpoint.png)
+
+
 ## Project Structure
 
 ```
