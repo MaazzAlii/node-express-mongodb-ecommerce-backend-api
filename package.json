@@ -7,7 +7,14 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "keywords": ["express", "mongodb", "mongoose", "jwt", "ecommerce", "rest-api"],
+  "keywords": [
+    "express",
+    "mongodb",
+    "mongoose",
+    "jwt",
+    "ecommerce",
+    "rest-api"
+  ],
   "author": "Maaz Ali",
   "license": "MIT",
   "dependencies": {
